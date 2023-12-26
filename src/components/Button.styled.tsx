@@ -19,6 +19,10 @@ export const StyledBtn = styled.button`
     background-color: transparent;
     color: #4E71FE;
     }
+
+    &:hover {
+        box-shadow: 0px 5px 10px 5px rgba(78, 113, 254, 0.25);
+    }
 `
 
 export const ButtonSpace = styled.div`
