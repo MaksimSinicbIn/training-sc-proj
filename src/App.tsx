@@ -15,7 +15,7 @@ function App() {
         <Content />
         <BodySpace>
           <Headline>Headline</Headline>
-          <Text>Faucibus. Faucibus. Sit sit sapien sit <br /> tempusrisu ut. Sit molestie ornare in venen.</Text>
+          <Text>Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie ornare in venen.</Text>
           <ButtonSpace>
             <StyledBtn>See more</StyledBtn>
             <StyledBtn>Save</StyledBtn>
